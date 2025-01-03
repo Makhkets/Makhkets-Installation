@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@sveltejs/kit": "^2.15.1",
+    "svelte": "^5.16.0"
+  }
+}
