@@ -1,6 +1,8 @@
-# Stylish Software Downloader
+# Makhkets Downloader
 
-![Minimalistic UI](screenshot-light.png) ![Dark Mode UI](screenshot-dark.png)
+| ![Minimalistic UI](./assets/light.png) | ![Dark Mode UI](./assets/makhkets.png) |
+|------------------------------------------|---------------------------------------|
+| Minimalistic UI                          | Dark Mode UI                          |
 
 **Stylish Software Downloader** — это минималистичная и удобная программа, созданная для автоматизации процесса скачивания программного обеспечения. Забудьте о ручном поиске .exe-файлов на десятках сайтов — теперь это можно сделать в пару кликов!
 
@@ -36,8 +38,8 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/stylish-software-downloader.git
-   cd stylish-software-downloader
+   git clone https://github.com/yourusername/stylish-software-downloader.git makhkets_downloader
+   cd makhkets_downloader
    ```
 2. Установите зависимости для backend и frontend:
    ```bash
@@ -53,7 +55,7 @@
    ```
 4. Запустите приложение:
    ```bash
-   ./build/stylish-software-downloader
+   ./build/makhkets_downloader
    ```
 
 ---
