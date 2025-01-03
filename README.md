@@ -17,7 +17,7 @@
 
 Посмотрите, как это работает:
 
-![[Watch the Demo](./assets/video.gif)
+![Watch the Demo](./assets/video.gif)
 
 ---
 
