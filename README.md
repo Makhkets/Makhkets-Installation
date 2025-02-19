@@ -1,7 +1,8 @@
 # Makhkets Downloader
 
-![Minimalistic UI](./assets/light.png)
-![Dark Mode UI](./assets/makhkets.png)
+| ![Minimalistic UI](./assets/light.png) | ![Dark Mode UI](./assets/makhkets.png) |
+|------------------------------------------|---------------------------------------|
+| Darcula UI                          | Makhkets UI                          |
 
 
 **Makhkets Downloader** — это минималистичная и удобная программа, созданная для автоматизации процесса скачивания программного обеспечения. Забудьте о ручном поиске .exe-файлов на десятках сайтов — теперь это можно сделать в пару кликов!
